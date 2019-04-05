@@ -1,2 +1,2 @@
 # classicalNLP
-Explore and test usefull NLP packages for classic NLP tasks.
+Explore and test usefull NLP packages for classical NLP tasks.
