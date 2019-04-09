@@ -1,2 +1,4 @@
 # classicalNLP
-Explore and test usefull NLP packages for classical NLP tasks.
+Explore the commonly used NLTK packages for classical NLP tasks.
+
+more info at http://www.nltk.org/py-modindex.html
