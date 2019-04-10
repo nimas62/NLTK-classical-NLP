@@ -12,7 +12,7 @@ Covers:
 
 4- Tokenizing a raw string using split()
 
-	Note: Doesn't work well. e.g. can't extract the ponctuations like "I asked her: how are you?"  >>> gives ...[her:],...,[you?]
+   Note: Doesn't work well. e.g. can't extract the ponctuations like "I asked her: how are you?"  >>> gives ...[her:],...,[you?]
 	
 5- Tokenizing a raw string using nltk work_tokenize. Gives good results. Can tokenize ponctuations.
 
