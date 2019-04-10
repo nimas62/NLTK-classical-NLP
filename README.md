@@ -2,7 +2,9 @@
 Explore the commonly used NLTK packages for classical NLP tasks.
 
 
-NLTK-Text-Corpora.ipynb Covers:
+NLTK-Text-Corpora.ipynb 
+
+Covers:
 
 1- Loading the nltk.corpus corpora.
 
