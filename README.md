@@ -2,11 +2,11 @@
 Explore the commonly used NLTK packages for classical NLP tasks.
 
 
-NLTK-most-used-commands.ipynb
+NLTK-Text-Corpora.ipynb
 Covers:
-1- Loading the nltk.corpus corpora
-2- Using corpus.raw corpus.words corpus.sentence for tokenizing and counting
-3- Using the corpus as string, or tokens list
+1- Loading the nltk.corpus corpora.
+2- Using corpus.raw corpus.words corpus.sentence for tokenizing and counting.
+3- Using the corpus as string, or tokens list.
 
 4- Tokenizing a raw string using split()
 	Note: Doesn't work well. e.g. can't extract the ponctuations like "I asked her: how are you?"  >>> gives ...[her:],...,[you?]
