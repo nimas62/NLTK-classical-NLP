@@ -1,4 +1,4 @@
-# NLTK-classicalNLP
+# NLTK-classical-NLP
 Explore the commonly used NLTK packages for classical NLP tasks.
 
 
